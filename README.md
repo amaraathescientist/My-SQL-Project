@@ -1,7 +1,7 @@
 # Data Cleaning
 
 ## Introduction
-A faux dataset of club member information gathered via an online form.
+A faux dataset of club member information gathered via an online form. 
 
 
 ## Problem Statement
